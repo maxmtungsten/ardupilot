@@ -350,6 +350,9 @@ AP_HW_KHA_ETH                        1315
 
 AP_HW_FlysparkF4                     1361
 
+# IDs 1380-1389 reserved for Robotics Center
+AP_HW_JUMBOSHRIMPF405                1380
+
 AP_HW_CUBEORANGE_PERIPH              1400
 AP_HW_CUBEBLACK_PERIPH               1401
 AP_HW_PIXRACER_PERIPH                1402
